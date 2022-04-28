@@ -1,2 +1,1 @@
-# words-WORM
-create a character vector of words from a string
+[README](https://github.com/dmparrishphd/words-CORW#readme).
